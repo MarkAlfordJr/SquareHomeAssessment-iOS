@@ -4,7 +4,7 @@
 XCode 12.5
 
 ## Steps to run the app
-Choose desired Simulator and Run
+DELETE AppCompendium file in project (it does not exist anymore), Choose desired Simulator and Run
 
 ## What areas of the app did you focus on?
 The Network Layer
